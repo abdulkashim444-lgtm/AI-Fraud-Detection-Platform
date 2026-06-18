@@ -40,3 +40,5 @@ Security: JWT Authentication, RBAC, Encryption
 
 Built for modern enterprises, fintech companies, banks, e-commerce platforms, and digital businesses seeking a powerful, scalable, and intelligent fraud prevention ecosystem. 🔒🤖🚀
 Wedsite : https://celadon-pithivier-74500c.netlify.app/
+
+<img width="1896" height="923" alt="Image" src="https://github.com/user-attachments/assets/4218122e-8fa2-414e-bee0-21bf79e5cba8" />
