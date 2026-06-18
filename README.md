@@ -3,6 +3,8 @@
 
 AI Fraud Detection Platform is a next-generation security and analytics solution engineered to identify, investigate, and prevent fraudulent activities in real time. By combining Artificial Intelligence, Machine Learning, Behavioral Analytics, and Explainable AI, the platform empowers organizations to detect threats with exceptional accuracy while providing complete transparency into every decision.
 
+<img width="1896" height="923" alt="Image" src="https://github.com/user-attachments/assets/4218122e-8fa2-414e-bee0-21bf79e5cba8" />
+
 ✨ Key Features
 
 🔹 Real-Time Fraud Detection & Risk Scoring
@@ -41,4 +43,4 @@ Security: JWT Authentication, RBAC, Encryption
 Built for modern enterprises, fintech companies, banks, e-commerce platforms, and digital businesses seeking a powerful, scalable, and intelligent fraud prevention ecosystem. 🔒🤖🚀
 Wedsite : https://celadon-pithivier-74500c.netlify.app/
 
-<img width="1896" height="923" alt="Image" src="https://github.com/user-attachments/assets/4218122e-8fa2-414e-bee0-21bf79e5cba8" />
+
