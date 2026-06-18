@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+🚨 AI Fraud Detection Platform
+🛡️ Enterprise-Grade AI-Powered Fraud Detection & Risk Intelligence System
 
-# Run and deploy your AI Studio app
+AI Fraud Detection Platform is a next-generation security and analytics solution engineered to identify, investigate, and prevent fraudulent activities in real time. By combining Artificial Intelligence, Machine Learning, Behavioral Analytics, and Explainable AI, the platform empowers organizations to detect threats with exceptional accuracy while providing complete transparency into every decision.
 
-This contains everything you need to run your app locally.
+✨ Key Features
 
-View your app in AI Studio: https://ai.studio/apps/936adcc1-428e-4c32-a9ca-abaeeb3faf5c
+🔹 Real-Time Fraud Detection & Risk Scoring
+🔹 AI-Powered Behavioral Pattern Analysis
+🔹 Explainable AI (XAI) for Transparent Decision Making
+🔹 SHAP-Based Model Interpretability & Insights
+🔹 Interactive Analytics & Monitoring Dashboards
+🔹 Live Fraud Alerts & Instant Notifications
+🔹 Role-Based Access Control (RBAC) Security
+🔹 Network Relationship & Entity Mapping
+🔹 Transaction Monitoring & Investigation Tools
+🔹 Advanced Data Visualization & Reporting
+🔹 Scalable Microservices & Cloud-Ready Architecture
+🔹 Secure Authentication & Authorization System
+🔹 High-Performance Real-Time Processing Engine
+🔹 Automated Fraud Investigation Workflows
 
-## Run Locally
+🚀 Technology Stack
 
-**Prerequisites:**  Node.js
+Frontend: React, TypeScript, Tailwind CSS
+Backend: Node.js, Express.js
+Database: PostgreSQL
+AI/ML: Machine Learning Models, SHAP, Gemini AI
+DevOps: Docker, Docker Compose
+Security: JWT Authentication, RBAC, Encryption
 
+🎯 Business Impact
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+✅ Reduce Financial Losses from Fraud
+✅ Improve Detection Accuracy with AI
+✅ Accelerate Fraud Investigation Processes
+✅ Enhance Compliance & Security Monitoring
+✅ Deliver Actionable Insights Through Analytics
+✅ Enable Data-Driven Decision Making
+
+Built for modern enterprises, fintech companies, banks, e-commerce platforms, and digital businesses seeking a powerful, scalable, and intelligent fraud prevention ecosystem. 🔒🤖🚀
+Wedsite : https://celadon-pithivier-74500c.netlify.app/
