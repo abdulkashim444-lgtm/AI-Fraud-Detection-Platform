@@ -1,0 +1,2498 @@
+{
+  "transactions": [
+    {
+      "id": "TX-92892557",
+      "userId": "USR-5255",
+      "email": "mark.cyber64@gmail.com",
+      "timestamp": "2026-06-18T11:53:34.967Z",
+      "amount": 480,
+      "merchant": "Amazon Retail",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.7",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.032,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 4137,
+        "distanceFromLastTxKm": 46,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 8186,
+        "deviceFingerprintRisk": 0.04,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-57376490",
+      "userId": "USR-2268",
+      "email": "steve.wealth75@gmail.com",
+      "timestamp": "2026-06-18T11:08:34.969Z",
+      "amount": 116,
+      "merchant": "Netflix Streaming",
+      "category": "Crypto Purchase",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.19",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.045,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 13134,
+        "distanceFromLastTxKm": 39,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2618,
+        "deviceFingerprintRisk": 0.05,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-41086339",
+      "userId": "USR-2559",
+      "email": "alex.sys55@gmail.com",
+      "timestamp": "2026-06-18T10:23:34.969Z",
+      "amount": 45,
+      "merchant": "Patreon Premium",
+      "category": "Crypto Purchase",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.224",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.011,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 11955,
+        "distanceFromLastTxKm": 22,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2328,
+        "deviceFingerprintRisk": 0.11,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-95957809",
+      "userId": "USR-4732",
+      "email": "john.doe89@gmail.com",
+      "timestamp": "2026-06-18T09:38:34.969Z",
+      "amount": 63,
+      "merchant": "Netflix Streaming",
+      "category": "Crypto Purchase",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.76",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.007,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 14814,
+        "distanceFromLastTxKm": 2,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 3152,
+        "deviceFingerprintRisk": 0.08,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-19840580",
+      "userId": "USR-3568",
+      "email": "steve.wealth61@gmail.com",
+      "timestamp": "2026-06-18T08:53:34.969Z",
+      "amount": 221,
+      "merchant": "Stripe Checkout",
+      "category": "Electronics",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.118",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.002,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 10167,
+        "distanceFromLastTxKm": 44,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2618,
+        "deviceFingerprintRisk": 0.01,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-30334535",
+      "userId": "USR-5919",
+      "email": "alex.sys66@gmail.com",
+      "timestamp": "2026-06-18T08:08:34.969Z",
+      "amount": 502,
+      "merchant": "Steam Games",
+      "category": "Crypto Purchase",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.142",
+      "riskScore": 40,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.4,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.011,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 1020,
+        "distanceFromLastTxKm": 36,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 8826,
+        "deviceFingerprintRisk": 0.01,
+        "isNewLocation": false,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-64768043",
+      "userId": "USR-8478",
+      "email": "jane.doe89@gmail.com",
+      "timestamp": "2026-06-18T07:23:34.969Z",
+      "amount": 513,
+      "merchant": "Steam Games",
+      "category": "Financial Services",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.214",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.037,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 21656,
+        "distanceFromLastTxKm": 40,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 5731,
+        "deviceFingerprintRisk": 0.13,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-71403437",
+      "userId": "USR-7908",
+      "email": "alex.sys64@gmail.com",
+      "timestamp": "2026-06-18T06:38:34.969Z",
+      "amount": 191,
+      "merchant": "Amazon Retail",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.110",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.046,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 2375,
+        "distanceFromLastTxKm": 36,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 4572,
+        "deviceFingerprintRisk": 0.1,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-15552831",
+      "userId": "USR-7373",
+      "email": "hacked.acc88@gmail.com",
+      "timestamp": "2026-06-18T05:53:34.969Z",
+      "amount": 595,
+      "merchant": "Amazon Retail",
+      "category": "Gaming",
+      "country": "US",
+      "device": "iPad OS",
+      "ipAddress": "192.168.1.161",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.012,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 23199,
+        "distanceFromLastTxKm": 44,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2762,
+        "deviceFingerprintRisk": 0.03,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-89988935",
+      "userId": "USR-5101",
+      "email": "mark.cyber42@gmail.com",
+      "timestamp": "2026-06-18T05:08:34.969Z",
+      "amount": 5051,
+      "merchant": "Patreon Premium",
+      "category": "Travel/Mobility",
+      "country": "RU",
+      "device": "Android Samsung S24",
+      "ipAddress": "198.51.100.189",
+      "riskScore": 85,
+      "status": "Rejected",
+      "fraudType": "Account Takeover",
+      "anomalyScore": 0.85,
+      "explainReason": "Account Takeover suspect: Transaction authorized after high velocity of failed password attempts (6 failed attempts in previous hour) combined with an unfamiliar device.",
+      "shapValues": {
+        "Amount Size": 0.191,
+        "Geo Velocity": -0.15,
+        "Failed Logins": 0.25,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 18,
+        "distanceFromLastTxKm": 28,
+        "failedLoginsPrevHour": 6,
+        "mouseHoverDurationMs": 288,
+        "deviceFingerprintRisk": 0.8,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 16,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-16997220",
+      "userId": "USR-7990",
+      "email": "jane.doe44@gmail.com",
+      "timestamp": "2026-06-18T04:23:34.969Z",
+      "amount": 522,
+      "merchant": "Binance Pay",
+      "category": "Gaming",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.201",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.047,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 7403,
+        "distanceFromLastTxKm": 38,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2529,
+        "deviceFingerprintRisk": 0.03,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-39132236",
+      "userId": "USR-8451",
+      "email": "mark.cyber68@gmail.com",
+      "timestamp": "2026-06-18T03:38:34.969Z",
+      "amount": 8571,
+      "merchant": "Netflix Streaming",
+      "category": "Travel/Mobility",
+      "country": "RU",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "198.51.100.95",
+      "riskScore": 99,
+      "status": "Rejected",
+      "fraudType": "Impossible Travel",
+      "anomalyScore": 0.99,
+      "explainReason": "Impossible Travel Flagged: Transaction in RU was initiated just 0 minutes after prior purchase inside US. Estimated velocity is Infinity km/h.",
+      "shapValues": {
+        "Amount Size": 0.195,
+        "Geo Velocity": 0.35,
+        "Failed Logins": -0.1,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 0,
+        "distanceFromLastTxKm": 8629,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 402,
+        "deviceFingerprintRisk": 0.95,
+        "isNewLocation": false,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 12,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-59881483",
+      "userId": "USR-1519",
+      "email": "john.doe19@gmail.com",
+      "timestamp": "2026-06-18T02:53:34.970Z",
+      "amount": 518,
+      "merchant": "Uber Trip",
+      "category": "Crypto Purchase",
+      "country": "US",
+      "device": "macOS Sonoma (Safari)",
+      "ipAddress": "192.168.1.203",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.015,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 7734,
+        "distanceFromLastTxKm": 8,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 3006,
+        "deviceFingerprintRisk": 0,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-44824560",
+      "userId": "USR-6600",
+      "email": "hacked.acc6@gmail.com",
+      "timestamp": "2026-06-18T02:08:34.970Z",
+      "amount": 550,
+      "merchant": "Netflix Streaming",
+      "category": "P2P Transfer",
+      "country": "US",
+      "device": "macOS Sonoma (Safari)",
+      "ipAddress": "192.168.1.216",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.041,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 2567,
+        "distanceFromLastTxKm": 14,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 3778,
+        "deviceFingerprintRisk": 0.14,
+        "isNewLocation": true,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-61441080",
+      "userId": "USR-8892",
+      "email": "alex.sys0@gmail.com",
+      "timestamp": "2026-06-18T01:23:34.970Z",
+      "amount": 91,
+      "merchant": "NordVPN",
+      "category": "Financial Services",
+      "country": "US",
+      "device": "macOS Sonoma (Safari)",
+      "ipAddress": "192.168.1.30",
+      "riskScore": 40,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.4,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.025,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 10485,
+        "distanceFromLastTxKm": 23,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 4188,
+        "deviceFingerprintRisk": 0.13,
+        "isNewLocation": false,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-39144952",
+      "userId": "USR-8311",
+      "email": "john.doe21@gmail.com",
+      "timestamp": "2026-06-18T00:38:34.970Z",
+      "amount": 197,
+      "merchant": "Patreon Premium",
+      "category": "Subscription",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.144",
+      "riskScore": 40,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.4,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.04,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 25176,
+        "distanceFromLastTxKm": 29,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 6772,
+        "deviceFingerprintRisk": 0.1,
+        "isNewLocation": false,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-70301507",
+      "userId": "USR-1671",
+      "email": "linda.fin65@gmail.com",
+      "timestamp": "2026-06-17T23:53:34.970Z",
+      "amount": 651,
+      "merchant": "NordVPN",
+      "category": "Electronics",
+      "country": "US",
+      "device": "macOS Sonoma (Safari)",
+      "ipAddress": "192.168.1.11",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.002,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 9681,
+        "distanceFromLastTxKm": 0,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 6074,
+        "deviceFingerprintRisk": 0.05,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-73165056",
+      "userId": "USR-1850",
+      "email": "alex.sys73@gmail.com",
+      "timestamp": "2026-06-17T23:08:34.970Z",
+      "amount": 210,
+      "merchant": "Apple Store",
+      "category": "P2P Transfer",
+      "country": "US",
+      "device": "Linux (Firefox)",
+      "ipAddress": "192.168.1.7",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.011,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 21762,
+        "distanceFromLastTxKm": 6,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 4821,
+        "deviceFingerprintRisk": 0.11,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-41908311",
+      "userId": "USR-9004",
+      "email": "jane.doe28@gmail.com",
+      "timestamp": "2026-06-17T22:23:34.970Z",
+      "amount": 114,
+      "merchant": "Patreon Premium",
+      "category": "Online Retail",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.68",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.019,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 17671,
+        "distanceFromLastTxKm": 40,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 9415,
+        "deviceFingerprintRisk": 0.09,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-10887989",
+      "userId": "USR-1900",
+      "email": "linda.fin52@gmail.com",
+      "timestamp": "2026-06-17T21:38:34.970Z",
+      "amount": 7241,
+      "merchant": "Walmart Direct",
+      "category": "Subscription",
+      "country": "US",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "198.51.100.41",
+      "riskScore": 99,
+      "status": "Rejected",
+      "fraudType": "Account Takeover",
+      "anomalyScore": 0.99,
+      "explainReason": "Account Takeover suspect: Transaction authorized after high velocity of failed password attempts (9 failed attempts in previous hour) combined with an unfamiliar device.",
+      "shapValues": {
+        "Amount Size": 0.196,
+        "Geo Velocity": -0.15,
+        "Failed Logins": 0.25,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 13,
+        "distanceFromLastTxKm": 27,
+        "failedLoginsPrevHour": 9,
+        "mouseHoverDurationMs": 394,
+        "deviceFingerprintRisk": 0.89,
+        "isNewLocation": true,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 11,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-55589955",
+      "userId": "USR-4643",
+      "email": "hacked.acc48@gmail.com",
+      "timestamp": "2026-06-17T20:53:34.970Z",
+      "amount": 252,
+      "merchant": "Stripe Checkout",
+      "category": "P2P Transfer",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.27",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.024,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 18431,
+        "distanceFromLastTxKm": 40,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 8654,
+        "deviceFingerprintRisk": 0.04,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-54472303",
+      "userId": "USR-7677",
+      "email": "linda.fin91@gmail.com",
+      "timestamp": "2026-06-17T20:08:34.970Z",
+      "amount": 540,
+      "merchant": "Walmart Direct",
+      "category": "Online Retail",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.73",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.048,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 15473,
+        "distanceFromLastTxKm": 8,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 9958,
+        "deviceFingerprintRisk": 0.14,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-64545656",
+      "userId": "USR-4380",
+      "email": "alex.sys79@gmail.com",
+      "timestamp": "2026-06-17T19:23:34.970Z",
+      "amount": 29,
+      "merchant": "Walmart Direct",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.252",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.043,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 1034,
+        "distanceFromLastTxKm": 11,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 5267,
+        "deviceFingerprintRisk": 0.08,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-15454693",
+      "userId": "USR-4920",
+      "email": "john.doe36@gmail.com",
+      "timestamp": "2026-06-17T18:38:34.970Z",
+      "amount": 361,
+      "merchant": "Patreon Premium",
+      "category": "Gaming",
+      "country": "US",
+      "device": "macOS Sonoma (Safari)",
+      "ipAddress": "192.168.1.237",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.029,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 9078,
+        "distanceFromLastTxKm": 33,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 7940,
+        "deviceFingerprintRisk": 0.04,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-73941178",
+      "userId": "USR-7663",
+      "email": "hacked.acc28@gmail.com",
+      "timestamp": "2026-06-17T17:53:34.970Z",
+      "amount": 2804,
+      "merchant": "Walmart Direct",
+      "category": "Financial Services",
+      "country": "CN",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "192.168.1.70",
+      "riskScore": 45,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.45,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": 0.192,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 1,
+        "distanceFromLastTxKm": 14,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 379,
+        "deviceFingerprintRisk": 0.89,
+        "isNewLocation": true,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 8,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-16804376",
+      "userId": "USR-7090",
+      "email": "mark.cyber18@gmail.com",
+      "timestamp": "2026-06-17T17:08:34.970Z",
+      "amount": 8910,
+      "merchant": "Walmart Direct",
+      "category": "P2P Transfer",
+      "country": "ZA",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "198.51.100.246",
+      "riskScore": 90,
+      "status": "Rejected",
+      "fraudType": "Impossible Travel",
+      "anomalyScore": 0.9,
+      "explainReason": "Impossible Travel Flagged: Transaction in ZA was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 1117008 km/h.",
+      "shapValues": {
+        "Amount Size": 0.167,
+        "Geo Velocity": 0.35,
+        "Failed Logins": -0.1,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 25,
+        "distanceFromLastTxKm": 7757,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 107,
+        "deviceFingerprintRisk": 0.96,
+        "isNewLocation": true,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 9,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-88812259",
+      "userId": "USR-8389",
+      "email": "steve.wealth89@gmail.com",
+      "timestamp": "2026-06-17T16:23:34.970Z",
+      "amount": 635,
+      "merchant": "Apple Store",
+      "category": "Online Retail",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.90",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.041,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 24496,
+        "distanceFromLastTxKm": 26,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2701,
+        "deviceFingerprintRisk": 0.03,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-46778931",
+      "userId": "USR-6734",
+      "email": "mark.cyber69@gmail.com",
+      "timestamp": "2026-06-17T15:38:34.970Z",
+      "amount": 609,
+      "merchant": "Stripe Checkout",
+      "category": "Gaming",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.110",
+      "riskScore": 40,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.4,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.013,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 11777,
+        "distanceFromLastTxKm": 10,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 7108,
+        "deviceFingerprintRisk": 0.03,
+        "isNewLocation": false,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-34295851",
+      "userId": "USR-3972",
+      "email": "hacked.acc18@gmail.com",
+      "timestamp": "2026-06-17T14:53:34.970Z",
+      "amount": 111,
+      "merchant": "Apple Store",
+      "category": "Subscription",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.104",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.001,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 2377,
+        "distanceFromLastTxKm": 26,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 10005,
+        "deviceFingerprintRisk": 0.02,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-48965208",
+      "userId": "USR-4125",
+      "email": "linda.fin54@gmail.com",
+      "timestamp": "2026-06-17T14:08:34.970Z",
+      "amount": 390,
+      "merchant": "Apple Store",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.21",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.009,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 4194,
+        "distanceFromLastTxKm": 16,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 4568,
+        "deviceFingerprintRisk": 0.02,
+        "isNewLocation": true,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-13212942",
+      "userId": "USR-3528",
+      "email": "brian.gate87@gmail.com",
+      "timestamp": "2026-06-17T13:23:34.970Z",
+      "amount": 530,
+      "merchant": "Apple Store",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.7",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.036,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 17983,
+        "distanceFromLastTxKm": 43,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 6247,
+        "deviceFingerprintRisk": 0.05,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-66196027",
+      "userId": "USR-6098",
+      "email": "jane.doe19@gmail.com",
+      "timestamp": "2026-06-17T12:38:34.970Z",
+      "amount": 495,
+      "merchant": "NordVPN",
+      "category": "Electronics",
+      "country": "US",
+      "device": "iPad OS",
+      "ipAddress": "192.168.1.34",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.046,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 23603,
+        "distanceFromLastTxKm": 45,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2165,
+        "deviceFingerprintRisk": 0.1,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-95614359",
+      "userId": "USR-5365",
+      "email": "steve.wealth97@gmail.com",
+      "timestamp": "2026-06-17T11:53:34.970Z",
+      "amount": 524,
+      "merchant": "Walmart Direct",
+      "category": "Gaming",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.220",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.004,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 19631,
+        "distanceFromLastTxKm": 9,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 9100,
+        "deviceFingerprintRisk": 0.05,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-92672227",
+      "userId": "USR-8779",
+      "email": "brian.gate79@gmail.com",
+      "timestamp": "2026-06-17T11:08:34.970Z",
+      "amount": 3281,
+      "merchant": "Stripe Checkout",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "198.51.100.137",
+      "riskScore": 99,
+      "status": "Rejected",
+      "fraudType": "Impossible Travel",
+      "anomalyScore": 0.99,
+      "explainReason": "Impossible Travel Flagged: Transaction in US was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 2820150 km/h.",
+      "shapValues": {
+        "Amount Size": 0.177,
+        "Geo Velocity": 0.35,
+        "Failed Logins": 0.25,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 8,
+        "distanceFromLastTxKm": 6267,
+        "failedLoginsPrevHour": 6,
+        "mouseHoverDurationMs": 133,
+        "deviceFingerprintRisk": 0.83,
+        "isNewLocation": true,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 18,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-98786988",
+      "userId": "USR-2389",
+      "email": "jane.doe57@gmail.com",
+      "timestamp": "2026-06-17T10:23:34.970Z",
+      "amount": 246,
+      "merchant": "Patreon Premium",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "Linux (Firefox)",
+      "ipAddress": "192.168.1.163",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.006,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 13457,
+        "distanceFromLastTxKm": 4,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 3747,
+        "deviceFingerprintRisk": 0.02,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-94231857",
+      "userId": "USR-1304",
+      "email": "hacked.acc16@gmail.com",
+      "timestamp": "2026-06-17T09:38:34.970Z",
+      "amount": 471,
+      "merchant": "Netflix Streaming",
+      "category": "Subscription",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.31",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.021,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 21564,
+        "distanceFromLastTxKm": 8,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 7996,
+        "deviceFingerprintRisk": 0.12,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-90247186",
+      "userId": "USR-2957",
+      "email": "alex.sys74@gmail.com",
+      "timestamp": "2026-06-17T08:53:34.970Z",
+      "amount": 362,
+      "merchant": "Steam Games",
+      "category": "Financial Services",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.127",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.026,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 21260,
+        "distanceFromLastTxKm": 1,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2966,
+        "deviceFingerprintRisk": 0.04,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-34662371",
+      "userId": "USR-9285",
+      "email": "steve.wealth95@gmail.com",
+      "timestamp": "2026-06-17T08:08:34.970Z",
+      "amount": 79,
+      "merchant": "NordVPN",
+      "category": "Online Retail",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.19",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.031,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 16989,
+        "distanceFromLastTxKm": 49,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 5985,
+        "deviceFingerprintRisk": 0.06,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-92417694",
+      "userId": "USR-8424",
+      "email": "john.doe85@gmail.com",
+      "timestamp": "2026-06-17T07:23:34.970Z",
+      "amount": 583,
+      "merchant": "Stripe Checkout",
+      "category": "P2P Transfer",
+      "country": "US",
+      "device": "macOS Sonoma (Safari)",
+      "ipAddress": "192.168.1.79",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.012,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 21090,
+        "distanceFromLastTxKm": 44,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2493,
+        "deviceFingerprintRisk": 0.06,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-67268395",
+      "userId": "USR-6527",
+      "email": "hacked.acc55@gmail.com",
+      "timestamp": "2026-06-17T06:38:34.970Z",
+      "amount": 1839,
+      "merchant": "Walmart Direct",
+      "category": "P2P Transfer",
+      "country": "ZA",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "198.51.100.172",
+      "riskScore": 99,
+      "status": "Rejected",
+      "fraudType": "Impossible Travel",
+      "anomalyScore": 0.99,
+      "explainReason": "Impossible Travel Flagged: Transaction in ZA was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 1838025 km/h.",
+      "shapValues": {
+        "Amount Size": 0.18,
+        "Geo Velocity": 0.35,
+        "Failed Logins": 0.25,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 16,
+        "distanceFromLastTxKm": 8169,
+        "failedLoginsPrevHour": 7,
+        "mouseHoverDurationMs": 61,
+        "deviceFingerprintRisk": 0.85,
+        "isNewLocation": false,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 18,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-29988377",
+      "userId": "USR-2334",
+      "email": "jane.doe14@gmail.com",
+      "timestamp": "2026-06-17T05:53:34.970Z",
+      "amount": 26,
+      "merchant": "Binance Pay",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "Linux (Firefox)",
+      "ipAddress": "192.168.1.83",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.004,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 10481,
+        "distanceFromLastTxKm": 7,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 3723,
+        "deviceFingerprintRisk": 0.08,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-41095543",
+      "userId": "USR-1050",
+      "email": "linda.fin31@gmail.com",
+      "timestamp": "2026-06-17T05:08:34.970Z",
+      "amount": 293,
+      "merchant": "Apple Store",
+      "category": "P2P Transfer",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.85",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.019,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 2218,
+        "distanceFromLastTxKm": 5,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 6263,
+        "deviceFingerprintRisk": 0.08,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-98128567",
+      "userId": "USR-1519",
+      "email": "mark.cyber1@gmail.com",
+      "timestamp": "2026-06-17T04:23:34.970Z",
+      "amount": 429,
+      "merchant": "Amazon Retail",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.252",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.049,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 18858,
+        "distanceFromLastTxKm": 37,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 9698,
+        "deviceFingerprintRisk": 0.06,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-12910870",
+      "userId": "USR-8958",
+      "email": "brian.gate37@gmail.com",
+      "timestamp": "2026-06-17T03:38:34.970Z",
+      "amount": 273,
+      "merchant": "Patreon Premium",
+      "category": "Electronics",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.99",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.019,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 8743,
+        "distanceFromLastTxKm": 41,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 4662,
+        "deviceFingerprintRisk": 0.02,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-14819120",
+      "userId": "USR-2870",
+      "email": "linda.fin22@gmail.com",
+      "timestamp": "2026-06-17T02:53:34.970Z",
+      "amount": 343,
+      "merchant": "Walmart Direct",
+      "category": "Gaming",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.121",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.008,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 6988,
+        "distanceFromLastTxKm": 40,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 8279,
+        "deviceFingerprintRisk": 0.01,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-39963312",
+      "userId": "USR-9315",
+      "email": "john.doe31@gmail.com",
+      "timestamp": "2026-06-17T02:08:34.970Z",
+      "amount": 29,
+      "merchant": "Walmart Direct",
+      "category": "Gaming",
+      "country": "US",
+      "device": "iPad OS",
+      "ipAddress": "192.168.1.163",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.019,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 11154,
+        "distanceFromLastTxKm": 34,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 3242,
+        "deviceFingerprintRisk": 0.04,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-89440803",
+      "userId": "USR-6733",
+      "email": "john.doe49@gmail.com",
+      "timestamp": "2026-06-17T01:23:34.970Z",
+      "amount": 355,
+      "merchant": "NordVPN",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.120",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.038,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 1996,
+        "distanceFromLastTxKm": 2,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 5920,
+        "deviceFingerprintRisk": 0.01,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-61696160",
+      "userId": "USR-6728",
+      "email": "john.doe33@gmail.com",
+      "timestamp": "2026-06-17T00:38:34.970Z",
+      "amount": 208,
+      "merchant": "Amazon Retail",
+      "category": "Electronics",
+      "country": "US",
+      "device": "iPhone 15 Pro",
+      "ipAddress": "192.168.1.127",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.004,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 7704,
+        "distanceFromLastTxKm": 14,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2268,
+        "deviceFingerprintRisk": 0.03,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-16978233",
+      "userId": "USR-9066",
+      "email": "steve.wealth21@gmail.com",
+      "timestamp": "2026-06-16T23:53:34.970Z",
+      "amount": 17,
+      "merchant": "Stripe Checkout",
+      "category": "Crypto Purchase",
+      "country": "US",
+      "device": "iPad OS",
+      "ipAddress": "192.168.1.219",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.037,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 9838,
+        "distanceFromLastTxKm": 14,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 2940,
+        "deviceFingerprintRisk": 0.04,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-27602664",
+      "userId": "USR-9499",
+      "email": "jane.doe64@gmail.com",
+      "timestamp": "2026-06-16T23:08:34.970Z",
+      "amount": 595,
+      "merchant": "Netflix Streaming",
+      "category": "Gaming",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.163",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.031,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 18603,
+        "distanceFromLastTxKm": 8,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 5228,
+        "deviceFingerprintRisk": 0.01,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-61979915",
+      "userId": "USR-6244",
+      "email": "hacked.acc88@gmail.com",
+      "timestamp": "2026-06-16T22:23:34.970Z",
+      "amount": 664,
+      "merchant": "Walmart Direct",
+      "category": "Crypto Purchase",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.164",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.038,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 8800,
+        "distanceFromLastTxKm": 30,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 9085,
+        "deviceFingerprintRisk": 0.14,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-41726524",
+      "userId": "USR-7559",
+      "email": "john.doe48@gmail.com",
+      "timestamp": "2026-06-16T21:38:34.970Z",
+      "amount": 6700,
+      "merchant": "Binance Pay",
+      "category": "Online Retail",
+      "country": "US",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "198.51.100.49",
+      "riskScore": 55,
+      "status": "Flagged",
+      "fraudType": "Identity Theft",
+      "anomalyScore": 0.55,
+      "explainReason": "Suspicious Profile: Risk score of 55% triggered by geographic anomaly, billing discrepancies, or device fingerprint variation.",
+      "shapValues": {
+        "Amount Size": 0.182,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 4,
+        "distanceFromLastTxKm": 47,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 402,
+        "deviceFingerprintRisk": 0.88,
+        "isNewLocation": true,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 9,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-66194770",
+      "userId": "USR-5278",
+      "email": "hacked.acc9@gmail.com",
+      "timestamp": "2026-06-16T20:53:34.970Z",
+      "amount": 5735,
+      "merchant": "Stripe Checkout",
+      "category": "P2P Transfer",
+      "country": "US",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "192.168.1.45",
+      "riskScore": 99,
+      "status": "Rejected",
+      "fraudType": "Account Takeover",
+      "anomalyScore": 0.99,
+      "explainReason": "Account Takeover suspect: Transaction authorized after high velocity of failed password attempts (10 failed attempts in previous hour) combined with an unfamiliar device.",
+      "shapValues": {
+        "Amount Size": 0.169,
+        "Geo Velocity": -0.15,
+        "Failed Logins": 0.25,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 3,
+        "distanceFromLastTxKm": 30,
+        "failedLoginsPrevHour": 10,
+        "mouseHoverDurationMs": 222,
+        "deviceFingerprintRisk": 0.82,
+        "isNewLocation": true,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 10,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-72238530",
+      "userId": "USR-4960",
+      "email": "john.doe50@gmail.com",
+      "timestamp": "2026-06-16T20:08:34.970Z",
+      "amount": 342,
+      "merchant": "Stripe Checkout",
+      "category": "Online Retail",
+      "country": "US",
+      "device": "Linux (Firefox)",
+      "ipAddress": "192.168.1.166",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.003,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 22380,
+        "distanceFromLastTxKm": 18,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 8127,
+        "deviceFingerprintRisk": 0.15,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-39439884",
+      "userId": "USR-4337",
+      "email": "brian.gate83@gmail.com",
+      "timestamp": "2026-06-16T19:23:34.970Z",
+      "amount": 628,
+      "merchant": "Apple Store",
+      "category": "Financial Services",
+      "country": "US",
+      "device": "macOS Sonoma (Safari)",
+      "ipAddress": "192.168.1.109",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.012,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 3528,
+        "distanceFromLastTxKm": 23,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 7343,
+        "deviceFingerprintRisk": 0.11,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-60703521",
+      "userId": "USR-6988",
+      "email": "jane.doe24@gmail.com",
+      "timestamp": "2026-06-16T18:38:34.970Z",
+      "amount": 436,
+      "merchant": "NordVPN",
+      "category": "Subscription",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.98",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.02,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 22100,
+        "distanceFromLastTxKm": 12,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 6973,
+        "deviceFingerprintRisk": 0.08,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-91825688",
+      "userId": "USR-1956",
+      "email": "mark.cyber76@gmail.com",
+      "timestamp": "2026-06-16T17:53:34.970Z",
+      "amount": 19,
+      "merchant": "Patreon Premium",
+      "category": "Financial Services",
+      "country": "US",
+      "device": "Android Samsung S24",
+      "ipAddress": "192.168.1.7",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.01,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 19677,
+        "distanceFromLastTxKm": 0,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 4958,
+        "deviceFingerprintRisk": 0.06,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 1,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-59699431",
+      "userId": "USR-5953",
+      "email": "alex.sys58@gmail.com",
+      "timestamp": "2026-06-16T17:08:34.970Z",
+      "amount": 554,
+      "merchant": "NordVPN",
+      "category": "Travel/Mobility",
+      "country": "US",
+      "device": "Windows 11 (Chrome)",
+      "ipAddress": "192.168.1.77",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.015,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 14022,
+        "distanceFromLastTxKm": 30,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 5231,
+        "deviceFingerprintRisk": 0.02,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    },
+    {
+      "id": "TX-19662686",
+      "userId": "USR-4368",
+      "email": "linda.fin46@gmail.com",
+      "timestamp": "2026-06-16T16:23:34.970Z",
+      "amount": 8060,
+      "merchant": "Apple Store",
+      "category": "Subscription",
+      "country": "ZA",
+      "device": "Unknown Device (Bot Header)",
+      "ipAddress": "192.168.1.87",
+      "riskScore": 99,
+      "status": "Rejected",
+      "fraudType": "Impossible Travel",
+      "anomalyScore": 0.99,
+      "explainReason": "Impossible Travel Flagged: Transaction in ZA was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 1154914 km/h.",
+      "shapValues": {
+        "Amount Size": 0.187,
+        "Geo Velocity": 0.35,
+        "Failed Logins": -0.1,
+        "User Telementry": 0.2,
+        "Device Credibility": 0.18
+      },
+      "features": {
+        "timeSinceLastTxSec": 21,
+        "distanceFromLastTxKm": 6737,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 288,
+        "deviceFingerprintRisk": 0.87,
+        "isNewLocation": false,
+        "isSuspiciousIp": true,
+        "velocity1Hour": 9,
+        "cardZipMatchesBilling": false
+      }
+    },
+    {
+      "id": "TX-65994456",
+      "userId": "USR-2443",
+      "email": "john.doe89@gmail.com",
+      "timestamp": "2026-06-16T15:38:34.970Z",
+      "amount": 253,
+      "merchant": "Stripe Checkout",
+      "category": "Gaming",
+      "country": "US",
+      "device": "iPad OS",
+      "ipAddress": "192.168.1.32",
+      "riskScore": 15,
+      "status": "Approved",
+      "fraudType": "Authentic",
+      "anomalyScore": 0.15,
+      "explainReason": "Normal transactional behavior with safe device fingerprint and matched locations.",
+      "shapValues": {
+        "Amount Size": -0.047,
+        "Geo Velocity": -0.15,
+        "Failed Logins": -0.1,
+        "User Telementry": -0.12,
+        "Device Credibility": -0.08
+      },
+      "features": {
+        "timeSinceLastTxSec": 9362,
+        "distanceFromLastTxKm": 44,
+        "failedLoginsPrevHour": 0,
+        "mouseHoverDurationMs": 7026,
+        "deviceFingerprintRisk": 0.12,
+        "isNewLocation": false,
+        "isSuspiciousIp": false,
+        "velocity1Hour": 2,
+        "cardZipMatchesBilling": true
+      }
+    }
+  ],
+  "cases": [
+    {
+      "id": "CASE-4000",
+      "transactionId": "TX-89988935",
+      "riskScore": 85,
+      "severity": "High",
+      "status": "Under Review",
+      "assignee": "Agent Carver",
+      "createdDate": "2026-06-18T05:08:34.969Z",
+      "notes": [
+        {
+          "id": "NT-0-1",
+          "timestamp": "2026-06-18T05:08:34.969Z",
+          "author": "System Bot",
+          "content": "Real-time Kafka processor triggered audit alarm. Model risk probability stands at 85% matching category: Account Takeover."
+        },
+        {
+          "id": "NT-0-2",
+          "timestamp": "2026-06-18T05:18:34.969Z",
+          "author": "Agent Carver",
+          "content": "Investigating user association patterns. Connected emails show potential shared proxy networks matching suspicious device parameters."
+        }
+      ],
+      "evidenceFiles": [
+        "IP_Lookup_Payload.pdf",
+        "Device_Fingerprint_Capture.png"
+      ],
+      "timeline": [
+        {
+          "timestamp": "2026-06-18T05:08:34.969Z",
+          "event": "Ingest Flagged",
+          "description": "Transaction TX-89988935 exceeded alert score triggers."
+        },
+        {
+          "timestamp": "2026-06-18T05:08:37.969Z",
+          "event": "Alert Dispatched",
+          "description": "Notified team via #sec-fraud-alerts Slack hook."
+        }
+      ]
+    },
+    {
+      "id": "CASE-4001",
+      "transactionId": "TX-39132236",
+      "riskScore": 99,
+      "severity": "Critical",
+      "status": "Closed (Confirmed Fraud)",
+      "assignee": "Agent Martinez",
+      "createdDate": "2026-06-18T03:38:34.969Z",
+      "notes": [
+        {
+          "id": "NT-1-1",
+          "timestamp": "2026-06-18T03:38:34.969Z",
+          "author": "System Bot",
+          "content": "Real-time Kafka processor triggered audit alarm. Model risk probability stands at 99% matching category: Impossible Travel."
+        }
+      ],
+      "evidenceFiles": [],
+      "timeline": [
+        {
+          "timestamp": "2026-06-18T03:38:34.969Z",
+          "event": "Ingest Flagged",
+          "description": "Transaction TX-39132236 exceeded alert score triggers."
+        },
+        {
+          "timestamp": "2026-06-18T03:38:37.969Z",
+          "event": "Alert Dispatched",
+          "description": "Notified team via #sec-fraud-alerts Slack hook."
+        }
+      ]
+    },
+    {
+      "id": "CASE-4002",
+      "transactionId": "TX-10887989",
+      "riskScore": 99,
+      "severity": "Critical",
+      "status": "Under Review",
+      "assignee": "Unassigned",
+      "createdDate": "2026-06-17T21:38:34.970Z",
+      "notes": [
+        {
+          "id": "NT-2-1",
+          "timestamp": "2026-06-17T21:38:34.970Z",
+          "author": "System Bot",
+          "content": "Real-time Kafka processor triggered audit alarm. Model risk probability stands at 99% matching category: Account Takeover."
+        },
+        {
+          "id": "NT-2-2",
+          "timestamp": "2026-06-17T21:48:34.970Z",
+          "author": "Agent Carver",
+          "content": "Investigating user association patterns. Connected emails show potential shared proxy networks matching suspicious device parameters."
+        }
+      ],
+      "evidenceFiles": [
+        "IP_Lookup_Payload.pdf",
+        "Device_Fingerprint_Capture.png"
+      ],
+      "timeline": [
+        {
+          "timestamp": "2026-06-17T21:38:34.970Z",
+          "event": "Ingest Flagged",
+          "description": "Transaction TX-10887989 exceeded alert score triggers."
+        },
+        {
+          "timestamp": "2026-06-17T21:38:37.970Z",
+          "event": "Alert Dispatched",
+          "description": "Notified team via #sec-fraud-alerts Slack hook."
+        }
+      ]
+    },
+    {
+      "id": "CASE-4003",
+      "transactionId": "TX-16804376",
+      "riskScore": 90,
+      "severity": "Critical",
+      "status": "Open",
+      "assignee": "Agent Carver",
+      "createdDate": "2026-06-17T17:08:34.970Z",
+      "notes": [
+        {
+          "id": "NT-3-1",
+          "timestamp": "2026-06-17T17:08:34.970Z",
+          "author": "System Bot",
+          "content": "Real-time Kafka processor triggered audit alarm. Model risk probability stands at 90% matching category: Impossible Travel."
+        }
+      ],
+      "evidenceFiles": [],
+      "timeline": [
+        {
+          "timestamp": "2026-06-17T17:08:34.970Z",
+          "event": "Ingest Flagged",
+          "description": "Transaction TX-16804376 exceeded alert score triggers."
+        },
+        {
+          "timestamp": "2026-06-17T17:08:37.970Z",
+          "event": "Alert Dispatched",
+          "description": "Notified team via #sec-fraud-alerts Slack hook."
+        }
+      ]
+    },
+    {
+      "id": "CASE-4004",
+      "transactionId": "TX-92672227",
+      "riskScore": 99,
+      "severity": "Critical",
+      "status": "Under Review",
+      "assignee": "Investigator Sterling",
+      "createdDate": "2026-06-17T11:08:34.970Z",
+      "notes": [
+        {
+          "id": "NT-4-1",
+          "timestamp": "2026-06-17T11:08:34.970Z",
+          "author": "System Bot",
+          "content": "Real-time Kafka processor triggered audit alarm. Model risk probability stands at 99% matching category: Impossible Travel."
+        },
+        {
+          "id": "NT-4-2",
+          "timestamp": "2026-06-17T11:18:34.970Z",
+          "author": "Agent Carver",
+          "content": "Investigating user association patterns. Connected emails show potential shared proxy networks matching suspicious device parameters."
+        }
+      ],
+      "evidenceFiles": [
+        "IP_Lookup_Payload.pdf",
+        "Device_Fingerprint_Capture.png"
+      ],
+      "timeline": [
+        {
+          "timestamp": "2026-06-17T11:08:34.970Z",
+          "event": "Ingest Flagged",
+          "description": "Transaction TX-92672227 exceeded alert score triggers."
+        },
+        {
+          "timestamp": "2026-06-17T11:08:37.970Z",
+          "event": "Alert Dispatched",
+          "description": "Notified team via #sec-fraud-alerts Slack hook."
+        }
+      ]
+    },
+    {
+      "id": "CASE-4005",
+      "transactionId": "TX-67268395",
+      "riskScore": 99,
+      "severity": "Critical",
+      "status": "Closed (Confirmed Fraud)",
+      "assignee": "Agent Carver",
+      "createdDate": "2026-06-17T06:38:34.970Z",
+      "notes": [
+        {
+          "id": "NT-5-1",
+          "timestamp": "2026-06-17T06:38:34.970Z",
+          "author": "System Bot",
+          "content": "Real-time Kafka processor triggered audit alarm. Model risk probability stands at 99% matching category: Impossible Travel."
+        }
+      ],
+      "evidenceFiles": [],
+      "timeline": [
+        {
+          "timestamp": "2026-06-17T06:38:34.970Z",
+          "event": "Ingest Flagged",
+          "description": "Transaction TX-67268395 exceeded alert score triggers."
+        },
+        {
+          "timestamp": "2026-06-17T06:38:37.970Z",
+          "event": "Alert Dispatched",
+          "description": "Notified team via #sec-fraud-alerts Slack hook."
+        }
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "ALT-1000",
+      "transactionId": "TX-89988935",
+      "type": "Account Takeover",
+      "severity": "High",
+      "status": "Active",
+      "message": "Account Takeover suspect: Transaction authorized after high velocity of failed password attempts (6 failed attempts in previous hour) combined with an unfamiliar device.",
+      "timestamp": "2026-06-18T05:08:34.969Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1001",
+      "transactionId": "TX-39132236",
+      "type": "Impossible Travel",
+      "severity": "Critical",
+      "status": "Investigating",
+      "message": "Impossible Travel Flagged: Transaction in RU was initiated just 0 minutes after prior purchase inside US. Estimated velocity is Infinity km/h.",
+      "timestamp": "2026-06-18T03:38:34.969Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1002",
+      "transactionId": "TX-10887989",
+      "type": "Account Takeover",
+      "severity": "Critical",
+      "status": "Resolved",
+      "message": "Account Takeover suspect: Transaction authorized after high velocity of failed password attempts (9 failed attempts in previous hour) combined with an unfamiliar device.",
+      "timestamp": "2026-06-17T21:38:34.970Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1003",
+      "transactionId": "TX-16804376",
+      "type": "Impossible Travel",
+      "severity": "Critical",
+      "status": "Active",
+      "message": "Impossible Travel Flagged: Transaction in ZA was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 1117008 km/h.",
+      "timestamp": "2026-06-17T17:08:34.970Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1004",
+      "transactionId": "TX-92672227",
+      "type": "Impossible Travel",
+      "severity": "Critical",
+      "status": "Investigating",
+      "message": "Impossible Travel Flagged: Transaction in US was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 2820150 km/h.",
+      "timestamp": "2026-06-17T11:08:34.970Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1005",
+      "transactionId": "TX-67268395",
+      "type": "Impossible Travel",
+      "severity": "Critical",
+      "status": "Resolved",
+      "message": "Impossible Travel Flagged: Transaction in ZA was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 1838025 km/h.",
+      "timestamp": "2026-06-17T06:38:34.970Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1006",
+      "transactionId": "TX-41726524",
+      "type": "Identity Theft",
+      "severity": "Medium",
+      "status": "Active",
+      "message": "Suspicious Profile: Risk score of 55% triggered by geographic anomaly, billing discrepancies, or device fingerprint variation.",
+      "timestamp": "2026-06-16T21:38:34.970Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1007",
+      "transactionId": "TX-66194770",
+      "type": "Account Takeover",
+      "severity": "Critical",
+      "status": "Investigating",
+      "message": "Account Takeover suspect: Transaction authorized after high velocity of failed password attempts (10 failed attempts in previous hour) combined with an unfamiliar device.",
+      "timestamp": "2026-06-16T20:53:34.970Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    },
+    {
+      "id": "ALT-1008",
+      "transactionId": "TX-19662686",
+      "type": "Impossible Travel",
+      "severity": "Critical",
+      "status": "Resolved",
+      "message": "Impossible Travel Flagged: Transaction in ZA was initiated just 0 minutes after prior purchase inside US. Estimated velocity is 1154914 km/h.",
+      "timestamp": "2026-06-16T16:23:34.970Z",
+      "channelsDispatched": [
+        "Slack",
+        "Email",
+        "SMS",
+        "Dashboard"
+      ]
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "LOG-162456",
+      "timestamp": "2026-06-18T11:53:34.970Z",
+      "user": "abdulkashim444@gmail.com",
+      "role": "Investigator",
+      "action": "User Logged In",
+      "ipAddress": "192.168.1.155",
+      "details": "Investigator abdulkashim444@gmail.com authenticated over session token (MFA Enabled)"
+    },
+    {
+      "id": "LOG-363761",
+      "timestamp": "2026-06-18T05:53:34.970Z",
+      "user": "abdulkashim444@gmail.com",
+      "role": "Investigator",
+      "action": "Case Transferred",
+      "ipAddress": "192.168.1.155",
+      "details": "Case CASE-4001 assigned to Agent Martinez"
+    },
+    {
+      "id": "LOG-436437",
+      "timestamp": "2026-06-17T23:53:34.970Z",
+      "user": "abdulkashim444@gmail.com",
+      "role": "Investigator",
+      "action": "Model Switched",
+      "ipAddress": "192.168.1.155",
+      "details": "Active pipeline model adjusted from Random Forest to XGBoost Classifier"
+    },
+    {
+      "id": "LOG-100778",
+      "timestamp": "2026-06-17T17:53:34.970Z",
+      "user": "abdulkashim444@gmail.com",
+      "role": "Investigator",
+      "action": "Alert Status Updated",
+      "ipAddress": "192.168.1.155",
+      "details": "Alert ALT-1004 set to Investigating"
+    },
+    {
+      "id": "LOG-225826",
+      "timestamp": "2026-06-17T11:53:34.970Z",
+      "user": "abdulkashim444@gmail.com",
+      "role": "Investigator",
+      "action": "Case Investigated",
+      "ipAddress": "192.168.1.155",
+      "details": "Closed Case CASE-4003 with outcome: Confirmed Organized Fraud Ring"
+    }
+  ],
+  "activeModelName": "XGBoost"
+}

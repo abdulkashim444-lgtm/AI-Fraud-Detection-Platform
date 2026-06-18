@@ -1,0 +1,6 @@
+{
+  "name": "AI Fraud Detection Platform",
+  "description": "An enterprise-grade platform for real-time transaction analysis, risk scoring, explainable AI, behavioral analytics, alert triage, and graph-based fraud ring detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
